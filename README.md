@@ -6,35 +6,48 @@
   <li><a href="#Java">Java</a></li>
   <ul>
     <li><a href="#Programmers">프로그래머스</a></li>
+      <ul>
+        <li><a href="#Programmers-1">Lv. 1</a></li>
+      </ul>
     <li><a href="#Jungol">정올</a></li>
+      <ul>
+        <li><a href="#Jungol-1">도형만들기1</a></li>
+        <li><a href="#Jungol-2">수학1</a></li>
+      </ul>
   </ul>
   <li><a href="#JavaScript">JavaScript</a></li>
     <ul>
     <li><a href="#JS-Programmers">프로그래머스</a></li>
+      <ul>
+        <li><a href="#JS-Programmers-1">Lv. 1</a></li>
+      </ul>
   </ul>
 </ol>
 
 <h2 id="Java">📑 Java</h2>
 <h3 id="Programmers">✔ 프로그래머스</h3>
-<ol>
-  <li>자릿수 더하기 | Digits</li>
-  <li>나머지가 1이 되는 수 찾기 | Remainder</li>
-  <li>짝수와 홀수 | Parity</li>
-  <li>약수의 합 | Divisor</li>
-  <li>평균 구하기 | Average</li>
-  <li>x만큼 간격이 있는 n개의 숫자 | Incrementer</li>
-  <li>자연수 뒤집어 배열로 만들기 | Array</li>
-  <li>문자열 내 p와 y의 개수 | Equal</li>
-  <li>문자열을 정수로 바꾸기 | Conversion</li>
-  <li>정수 제곱근 판별 | SquareRoot</li>
-  <li>정수 내림차순으로 배치하기 | DescendingOrder</li>
-  <li>하샤드 수 | HarshadNumber</li>
-  <li>두 정수 사이의 합 | Sum</li>
-  <li>콜라츠 추측 | CollatzConjecture</li>
-</ol>
+<ul>
+  <li id="Programmers-1">Lv. 1</li>
+    <ol type="1">
+      <li>자릿수 더하기 | Digits</li>
+      <li>나머지가 1이 되는 수 찾기 | Remainder</li>
+      <li>짝수와 홀수 | Parity</li>
+      <li>약수의 합 | Divisor</li>
+      <li>평균 구하기 | Average</li>
+      <li>x만큼 간격이 있는 n개의 숫자 | Incrementer</li>
+      <li>자연수 뒤집어 배열로 만들기 | Array</li>
+      <li>문자열 내 p와 y의 개수 | Equal</li>
+      <li>문자열을 정수로 바꾸기 | Conversion</li>
+      <li>정수 제곱근 판별 | SquareRoot</li>
+      <li>정수 내림차순으로 배치하기 | DescendingOrder</li>
+      <li>하샤드 수 | HarshadNumber</li>
+      <li>두 정수 사이의 합 | Sum</li>
+      <li>콜라츠 추측 | CollatzConjecture</li>
+    </ol>
+</ul>
 <h3 id="Jungol">✔ 정올</h3>
 <ul>
-  <li>도형만들기1 | makingshapes1</li>
+  <li id="Jungol-1">도형만들기1 | makingshapes1</li>
     <ol type="1">
       <li>1291 구구단 | Gugudan1291</li>
       <li>1341 구구단2 | Gugudan1341</li>
@@ -47,7 +60,7 @@
       <li>1338 문자삼각형1 | TextTriangle1338</li>
       <li>1339 문자삼각형2 | TextTriangle1339</li>
     </ol>
-  <li>수학1 | math1</li>
+  <li id="Jungol-2">수학1 | math1</li>
     <ol type="1">
       <li>1692 곱셈 | Multiplication1692</li>
       <li>1430 숫자의 개수 | NumberOfDigits1430</li>
@@ -57,10 +70,13 @@
 </ul>
 <h2 id="JavaScript">📑 JavaScript</h2>
 <h3 id="JS-Programmers">✔ 프로그래머스</h3>
-<ol>
-  <li>자연수 뒤집어 배열로 만들기 | array</li>
-  <li>문자열 내 p와 y의 개수 | equal</li>
-  <li>문자열을 정수로 바꾸기 | conversion</li>
-  <li>정수 제곱근 판별 | squareRoot</li>
-  <li>정수 내림차순으로 배치하기 | descendingOrder</li>
-</ol>
+<ul>
+  <li id="JS-Programmers-1">Lv. 1</li>
+    <ol type="1">
+      <li>자연수 뒤집어 배열로 만들기 | array</li>
+      <li>문자열 내 p와 y의 개수 | equal</li>
+      <li>문자열을 정수로 바꾸기 | conversion</li>
+      <li>정수 제곱근 판별 | squareRoot</li>
+      <li>정수 내림차순으로 배치하기 | descendingOrder</li>
+    </ol>
+</ul>
