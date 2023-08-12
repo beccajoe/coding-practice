@@ -33,7 +33,28 @@
   <li>콜라츠 추측 | CollatzConjecture</li>
 </ol>
 <h3 id="Jungol">✔ 정올</h3>
-
+<ul>
+  <li>도형만들기1 | makingshapes1</li>
+    <ol type="1">
+      <li>1291 구구단 | Gugudan1291</li>
+      <li>1341 구구단2 | Gugudan1341</li>
+      <li>1303 숫자사각형1 | NumberRectangle1303</li>
+      <li>1856 숫자사각형2 | NumberRectangle1856</li>
+      <li>1304 숫자사각형3 | NumberRectangle1304</li>
+      <li>2046 숫자사격형4 | NumberRectangle2046</li>
+      <li>1307 문자사각형1 | TextRectangle1307</li>
+      <li>1314 문자사각형2 | TextRectangle1314</li>
+      <li>1338 문자삼각형1 | TextTriangle1338</li>
+      <li>1339 문자삼각형2 | TextTriangle1339</li>
+    </ol>
+  <li>수학1 | math1</li>
+    <ol type="1">
+      <li>1692 곱셈 | Multiplication1692</li>
+      <li>1430 숫자의 개수 | NumberOfDigits1430</li>
+      <li>1071 약수와 배수 | FactorsAndMultiples1071</li>
+      <li>TBU - 1402 약수 구하기 | FindingFactors1402</li>
+  </ol>
+</ul>
 <h2 id="JavaScript">📑 JavaScript</h2>
 <h3 id="JS-Programmers">✔ 프로그래머스</h3>
 <ol>
