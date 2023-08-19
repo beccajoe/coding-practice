@@ -1,21 +1,31 @@
-package java.jungol.beginner.math1;
+package javapractice.jungol.beginner.math1;
 // 1402 약수 구하기
 
 import java.util.Scanner;
-
 public class FindingFactors1402 {
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		
-		sc.nextLine();
+
 		String line = sc.nextLine();
 	    String[] stringNum = line.split(" ");
 
-	    int n = Integer.parseInt(stringNum[0]);
-	    int m = Integer.parseInt(stringNum[1]);
-		
-	    
+	    int N = Integer.parseInt(stringNum[0]);
+	    int K = Integer.parseInt(stringNum[1]);
+
+		int cnt = 0;
+
+		for (int i = 1; i <= N; i++) {
+			if (N % i == 0) {
+				cnt++;
+				if (cnt == K) {
+					System.out.println(i);
+					return;
+				}
+			}
+		}
+		if (cnt < K) {
+			System.out.println(0);
+		}
 	}
 }
 
