@@ -7,6 +7,7 @@
   <ul>
     <li><a href="#프로그래머스">프로그래머스</a></li>
       <ul>
+        <li><a href="#프로그래머스-0">Lv. 0</a></li>
         <li><a href="#프로그래머스-1">Lv. 1</a></li>
       </ul>
     <li><a href="#정올">정올</a></li>
@@ -24,9 +25,13 @@
   </ul>
 </ol>
 
-<h2 id="Java">📑 Java</h2>
+<h2 id="Java">📑 Java | javapractice</h2>
 <h3 id="프로그래머스">✔ 프로그래머스</h3>
 <ul>
+  <li id="프로그래머스-0">Lv. 0</li>
+    <ol type="1">
+      <li>몫 구하기 | Quotient</li>
+    </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
       <li>자릿수 더하기 | Digits</li>
@@ -43,6 +48,12 @@
       <li>하샤드 수 | HarshadNumber</li>
       <li>두 정수 사이의 합 | Sum</li>
       <li>콜라츠 추측 | CollatzConjecture</li>
+      <li>서울에서 김서방 찾기 | Kim</li>
+      <li>나누어 떨어지는 숫자 배열 | DivisibleArray</li>
+      <li>음양 더하기 | Addition</li>
+      <li>핸드폰 번호 가리기 | PhoneNumber</li>
+      <li>없는 숫자 더하기 | Numbers</li>
+      <li>제일 작은 수 제거하기 | NewArray</li>
     </ol>
 </ul>
 <h3 id="정올">✔ 정올</h3>
@@ -65,10 +76,10 @@
       <li>1692 곱셈 | Multiplication1692</li>
       <li>1430 숫자의 개수 | NumberOfDigits1430</li>
       <li>1071 약수와 배수 | FactorsAndMultiples1071</li>
-      <li>TBU - 1402 약수 구하기 | FindingFactors1402</li>
+      <li>1402 약수 구하기 | FindingFactors1402</li>
   </ol>
 </ul>
-<h2 id="JavaScript">📑 JavaScript</h2>
+<h2 id="JavaScript">📑 JavaScript | jspractice </h2>
 <h3 id="JS-프로그래머스">✔ 프로그래머스</h3>
 <ul>
   <li id="JS-프로그래머스-1">Lv. 1</li>
