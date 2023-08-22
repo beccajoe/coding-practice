@@ -31,6 +31,11 @@
   <li id="프로그래머스-0">Lv. 0</li>
     <ol type="1">
       <li>몫 구하기 | Quotient</li>
+      <li>나이 출력 | Age</li>
+      <li>두 수의 차 | Difference</li>
+      <li>숫자 비교하기 | Comparison</li>
+      <li>나머지 구하기 | Remainder</li>
+      <li>두 수의 곱 | Multiplication</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
