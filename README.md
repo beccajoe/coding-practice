@@ -41,6 +41,15 @@
       <li>각도기 | Angle</li>
       <li>짝수의 합 | EvenNumbers</li>
       <li>배열의 평균값 | Average</li>
+      <li>양꼬치 | Store</li>
+      <li>배열 원소의 길이 | Length</li>
+      <li>배열 뒤집기 | ArrayOrder</li>
+      <li>문자열 뒤집기 | StringOrder</li>
+      <li>배열 자르기 | NewArray</li>
+      <li>배열 두배 만들기 | Double</li>
+      <li>편지 | CardSize</li>
+      <li>특정 문자 제거하기 | NewString</li>
+      <li>피자 나눠 먹기 (3) | Pizza</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
