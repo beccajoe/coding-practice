@@ -50,6 +50,8 @@
       <li>편지 | CardSize</li>
       <li>특정 문자 제거하기 | NewString</li>
       <li>피자 나눠 먹기 (3) | Pizza</li>
+      <li>짝수 홀수 개수 | EvenAndOdd</li>
+      <li>삼각형의 완성조건 (1) | Triangle</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
