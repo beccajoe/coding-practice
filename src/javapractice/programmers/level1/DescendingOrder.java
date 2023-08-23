@@ -5,17 +5,20 @@ import java.util.Arrays;
 
 public class DescendingOrder {
     public long solution(long n) {
-        long answer = 0;
+        long answer;
 
-        String digitsStr = Long.toString(n);
-        char[] digits = digitsStr.toCharArray();
-        Arrays.sort(digits);
+        String s = Long.toString(n);
+        char[] arr1 = s.toCharArray();
+        Arrays.sort(arr1);
+        char[] arr2 = new char[arr1.length];
+        int i = arr1.length - 1;
 
-        StringBuilder sortedDigitsStr = new StringBuilder(new String(digits));
-        sortedDigitsStr.reverse();
+        for (int j = 0; j < arr2.length; j++) {
+            arr2[j] = arr1[i];
+            i--;
+        }
 
-        answer = Long.parseLong(sortedDigitsStr.toString());
-
+        answer = Long.parseLong(String.valueOf(arr2));
         return answer;
     }
 }
