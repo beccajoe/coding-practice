@@ -36,6 +36,11 @@
       <li>숫자 비교하기 | Comparison</li>
       <li>나머지 구하기 | Remainder</li>
       <li>두 수의 곱 | Multiplication</li>
+      <li>두 수의 합 | Addition</li>
+      <li>두 수의 나눗셈 | Division</li>
+      <li>각도기 | Angle</li>
+      <li>짝수의 합 | EvenNumbers</li>
+      <li>배열의 평균값 | Average</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
