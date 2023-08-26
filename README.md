@@ -52,6 +52,16 @@
       <li>피자 나눠 먹기 (3) | Pizza</li>
       <li>짝수 홀수 개수 | EvenAndOdd</li>
       <li>삼각형의 완성조건 (1) | Triangle</li>
+      <li>점의 위치 구하기 | Location</li>
+      <li>최댓값 만들기 (1) | MaximumProduct</li>
+      <li>모음 제거 | NoVowels</li>
+      <li>배열의 유사도 | ArrayComparison</li>
+      <li>피자 나눠 먹기 (1) | PizzaSlices</li>
+      <li>머쓱이보다 키 큰 사람 | Height</li>
+      <li>순서쌍의 개수 | Products</li>
+      <li>중복된 숫자 개수 | Repeats</li>
+      <li>문자열안에 문자열 | Occurrence</li>
+      <li>문자 반복 출력하기 | Repetition</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
