@@ -6,22 +6,32 @@
   <li><a href="#Java">Java</a></li>
   <ul>
     <li><a href="#프로그래머스">프로그래머스</a></li>
-      <ul>
-        <li><a href="#프로그래머스-0">Lv. 0</a></li>
-        <li><a href="#프로그래머스-1">Lv. 1</a></li>
-      </ul>
+    <ul>
+      <li><a href="#프로그래머스-0">Lv. 0</a></li>
+      <li><a href="#프로그래머스-1">Lv. 1</a></li>
+    </ul>
     <li><a href="#정올">정올</a></li>
-      <ul>
-        <li><a href="#정올-도형만들기1">도형만들기1</a></li>
-        <li><a href="#정올-수학1">수학1</a></li>
-      </ul>
+    <ul>
+      <li><a href="#정올-도형만들기1">도형만들기1</a></li>
+      <li><a href="#정올-수학1">수학1</a></li>
+    </ul>
   </ul>
   <li><a href="#JavaScript">JavaScript</a></li>
-    <ul>
+  <ul>
     <li><a href="#JS-프로그래머스">프로그래머스</a></li>
       <ul>
         <li><a href="#JS-프로그래머스-1">Lv. 1</a></li>
       </ul>
+  </ul>
+  <li><a href="#SQL">SQL</a></li>
+  <ul>
+    <li><a href="#MySQL">MySQL</a></li>
+    <ul>
+      <li><a href="#MySQL-프로그래머스">프로그래머스</a></li>
+      <ul>
+        <li><a href="#MySQL-프로그래머스-1">Lv. 1</a></li>
+      </ul>
+    </ul>
   </ul>
 </ol>
 
@@ -121,4 +131,24 @@
       <li>정수 제곱근 판별 | squareRoot</li>
       <li>정수 내림차순으로 배치하기 | descendingOrder</li>
     </ol>
+</ul>
+<h2 id="SQL">📑 SQL | sqlpractice </h2>
+<h3 id="MySQL">MySQL</h3>
+<h4 id="MySQL-프로그래머스">✔ 프로그래머스</h4>
+<ul>
+  <li id="MySQL-프로그래머스-1">Lv. 1</li>
+    <ul>
+      <li>SELECT</li>
+      <ol type="1">
+        <li>여러 기준으로 정렬하기</li>
+        <li>어린 동물 찾기</li>
+        <li>아픈 동물 찾기</li>
+        <li>동물의 아이디와 이름</li>
+        <li>역순 정렬하기</li>
+      </ol>
+      <li>IS NULL</li>
+      <ol type="1">
+        <li>이름이 있는 동물의 아이디</li>
+      </ol>
+    </ul>
 </ul>
