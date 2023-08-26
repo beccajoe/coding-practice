@@ -133,7 +133,7 @@
     </ol>
 </ul>
 <h2 id="SQL">📑 SQL | sqlpractice </h2>
-<h3 id="MySQL">MySQL</h3>
+<h3 id="MySQL">🔖 MySQL</h3>
 <h4 id="MySQL-프로그래머스">✔ 프로그래머스</h4>
 <ul>
   <li id="MySQL-프로그래머스-1">Lv. 1</li>
@@ -145,6 +145,13 @@
         <li>아픈 동물 찾기</li>
         <li>동물의 아이디와 이름</li>
         <li>역순 정렬하기</li>
+        <li>상위 n개 레코드</li>
+        <li>강원도에 위치한 생산공장 목록 출력하기</li>
+        <li>조건에 맞는 회원수 구하기</li>
+        <li>흉부외과 또는 일반외과 의사 목록 출력하기</li>
+        <li>12세 이하인 여자 환자 목록 출력하기</li>
+        <li>인기있는 아이스크림</li>
+        <li>조건에 맞는 도서 리스트 출력하기</li>
       </ol>
       <li>IS NULL</li>
       <ol type="1">
