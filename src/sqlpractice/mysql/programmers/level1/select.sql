@@ -45,3 +45,7 @@ SELECT flavor from first_half order by total_order desc, shipment_id;
 -- BOOK 테이블에서 2021년에 출판된 '인문' 카테고리에 속하는 도서 리스트를 찾아서 도서 ID(BOOK_ID), 출판일 (PUBLISHED_DATE)을 출력하는 SQL문을 작성해주세요.
 -- 결과는 출판일을 기준으로 오름차순 정렬해주세요.
 SELECT book_id, date_format(published_date, '%Y-%m-%d') from book where published_date like '2021-%' and category = '인문' order by published_date;
+
+-- 모든 레코드 조회하기
+-- 동물 보호소에 들어온 모든 동물의 정보를 ANIMAL_ID순으로 조회하는 SQL문을 작성해주세요. SQL을 실행하면 다음과 같이 출력되어야 합니다.
+SELECT * from animal_ins order by animal_id;
