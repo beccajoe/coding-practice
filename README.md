@@ -72,6 +72,7 @@
       <li>중복된 숫자 개수 | Repeats</li>
       <li>문자열안에 문자열 | Occurrence</li>
       <li>문자 반복 출력하기 | Repetition</li>
+      <li>아이스 아메리카노 | Americano</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
