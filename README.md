@@ -36,7 +36,7 @@
 </ol>
 
 <h2 id="Java">📑 Java | javapractice</h2>
-<h3 id="프로그래머스">✔ 프로그래머스</h3>
+<h3 id="프로그래머스">🌐 프로그래머스</h3>
 <ul>
   <li id="프로그래머스-0">Lv. 0</li>
     <ol type="1">
@@ -100,7 +100,7 @@
       <li>제일 작은 수 제거하기 | NewArray</li>
     </ol>
 </ul>
-<h3 id="정올">✔ 정올</h3>
+<h3 id="정올">🌐 정올</h3>
 <ul>
   <li id="정올-도형만들기1">도형만들기1 | makingshapes1</li>
     <ol type="1">
@@ -124,7 +124,7 @@
   </ol>
 </ul>
 <h2 id="JavaScript">📑 JavaScript | jspractice </h2>
-<h3 id="JS-프로그래머스">✔ 프로그래머스</h3>
+<h3 id="JS-프로그래머스">🌐 프로그래머스</h3>
 <ul>
   <li id="JS-프로그래머스-1">Lv. 1</li>
     <ol type="1">
@@ -137,9 +137,9 @@
 </ul>
 <h2 id="SQL">📑 SQL | sqlpractice </h2>
 <h3 id="MySQL">🔖 MySQL</h3>
-<h4 id="MySQL-프로그래머스">✔ 프로그래머스</h4>
+<h4 id="MySQL-프로그래머스">🌐 프로그래머스</h4>
 <ul>
-  <li id="MySQL-프로그래머스-1">Lv. 1</li>
+  <li id="MySQL-프로그래머스-1">Lv. 1 [DONE✅]</li>
     <ul>
       <li>SELECT</li>
       <ol type="1">
@@ -158,10 +158,24 @@
         <li>모든 레코드 조회하기</li>
         <li>평균 일일 대여 요금 구하기</li>
         <li>과일로 만든 아이스크림 고르기</li>
+        <li>조건에 부합하는 중고거래 댓글 조회하기</li>
       </ol>
       <li>IS NULL</li>
       <ol type="1">
         <li>이름이 있는 동물의 아이디</li>
+        <li>나이 정보가 없는 회원 수 구하기</li>
+        <li>경기도에 위치한 식품창고 목록 출력하기</li>
+        <li>이름이 없는 동물의 아이디</li>
+      </ol>
+      <li>SUM, MAX, MIN</li>
+      <ol type="1">
+        <li>가장 비싼 상품 구하기</li>
+        <li>최댓값 구하기</li>
+      </ol>
+      <li>String, Date</li>
+      <ol type="1">
+        <li>특정 옵션이 포함된 자동차 리스트 구하기</li>
+        <li>자동차 대여 기록에서 장기/단기 대여 구분하기</li>
       </ol>
     </ul>
 </ul>
