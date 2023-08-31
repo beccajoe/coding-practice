@@ -74,6 +74,7 @@
       <li>문자 반복 출력하기 | Repetition</li>
       <li>아이스 아메리카노 | Americano</li>
       <li>옷가게 할인 받기 | Discount</li>
+      <li>자릿수 더하기 | Number</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
