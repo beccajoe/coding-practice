@@ -29,7 +29,8 @@
     <ul>
       <li><a href="#MySQL-프로그래머스">프로그래머스</a></li>
       <ul>
-        <li><a href="#MySQL-프로그래머스-1">Lv. 1</a></li>
+        <li><a href="#MySQL-프로그래머스-1">Lv. 1 [DONE✅]</a></li>
+        <li><a href="#MySQL-프로그래머스-2">Lv. 2</a></li>
       </ul>
     </ul>
   </ul>
@@ -178,4 +179,10 @@
         <li>자동차 대여 기록에서 장기/단기 대여 구분하기</li>
       </ol>
     </ul>
+  <li id="MySQL-프로그래머스-2">Lv. 2</li>
+    <ul>
+      <li>SUM, MAX, MIN</li>
+      <ol type="1">
+        <li>동물 수 구하기</li>
+      </ol>
 </ul>
