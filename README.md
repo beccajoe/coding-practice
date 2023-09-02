@@ -184,5 +184,6 @@
       <li>SUM, MAX, MIN</li>
       <ol type="1">
         <li>동물 수 구하기</li>
+        <li>최솟값 구하기</li>
       </ol>
 </ul>
