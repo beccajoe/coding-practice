@@ -1,4 +1,4 @@
-<h1>👩‍💻 알고리즘 문제 풀이</h1>
+![image](https://github.com/beccajoe/coding-practice/assets/123378408/d3a7f333-b832-4132-b411-91c8e91e5732)<h1>👩‍💻 알고리즘 문제 풀이</h1>
 코딩 테스트 개인 연습 저장소
 
 <h2>✍ 문제 목록</h2>
@@ -184,5 +184,6 @@
       <li>SUM, MAX, MIN</li>
       <ol type="1">
         <li>동물 수 구하기</li>
+        <li>최솟값 구하기</li>
       </ol>
 </ul>
