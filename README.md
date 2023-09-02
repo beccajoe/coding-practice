@@ -1,4 +1,4 @@
-<h1>👩‍💻 알고리즘 문제 풀이</h1>
+![image](https://github.com/beccajoe/coding-practice/assets/123378408/0f61c9d5-e84a-496c-a985-56abc539633d)![image](https://github.com/beccajoe/coding-practice/assets/123378408/e84c2ba7-1d42-4a0f-81c8-09b3118d1fe0)<h1>👩‍💻 알고리즘 문제 풀이</h1>
 코딩 테스트 개인 연습 저장소
 
 <h2>✍ 문제 목록</h2>
@@ -76,6 +76,29 @@
       <li>아이스 아메리카노 | Americano</li>
       <li>옷가게 할인 받기 | Discount</li>
       <li>자릿수 더하기 | Number</li>
+      <li>중앙값 구하기 | Middle</li>
+      <li>짝수는 싫어요 | NoEvenNumbers</li>
+      <li>숨어있는 숫자의 덧셈 (1) | ArraySum</li>
+      <li>문자열을 정수로 변환하기 | IntegerConversion</li>
+      <li>정수 부분 | DoubleToInteger</li>
+      <li>n의 배수 | Multiple</li>
+      <li>배열 비교하기 | ArrayLengthComparison</li>
+      <li>n개 간격의 원소들 | Interval</li>
+      <li>flag에 따라 다른 값 반환하기 | BooleanSolution</li>
+      <li>n 번째 원소까지 | ArrayElements</li>
+      <li>정수 찾기 | ArrayListCheck</li>
+      <li>n 번째 원소부터 | Elements</li>
+      <li>마지막 두 원소 | ElementComparison</li>
+      <li>길이에 따른 연산 | SumOrProduct</li>
+      <li>문자열의 뒤의 n글자 | Substring</li>
+      <li>첫 번째로 나오는 음수 | FirstNegativeNumber</li>
+      <li>문자열 정수의 합 | StringSum</li>
+      <li>문자열의 앞의 n글자 | SubstringIndex</li>
+      <li>부분 문자열인지 확인하기 | SubstringCheck</li>
+      <li>공배수 | Multiples</li>
+      <li>조건에 맞게 수열 변환하기 1 | ProductOrQuotient</li>
+      <li>수 조작하기 1 | NewSum</li>
+      <li>문자열 곱하기 | Appendment</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
