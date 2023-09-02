@@ -1,4 +1,4 @@
-![image](https://github.com/beccajoe/coding-practice/assets/123378408/0f61c9d5-e84a-496c-a985-56abc539633d)![image](https://github.com/beccajoe/coding-practice/assets/123378408/e84c2ba7-1d42-4a0f-81c8-09b3118d1fe0)<h1>👩‍💻 알고리즘 문제 풀이</h1>
+<h1>👩‍💻 알고리즘 문제 풀이</h1>
 코딩 테스트 개인 연습 저장소
 
 <h2>✍ 문제 목록</h2>
