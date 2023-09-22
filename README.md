@@ -113,6 +113,13 @@
       <li>문자열 붙여서 출력하기 | Space</li>
       <li>조건에 맞게 수열 변환하기 3 | NewArrayElements</li>
       <li>더 크게 합치기 | NewNumber</li>
+      <li>이어 붙인 수 | SumOfNumbers</li>
+      <li>접두사인지 확인하기 | Prefix</li>
+      <li>주사위 게임 1 | Dice</li>
+      <li>원하는 문자열 찾기 | StringInclusion</li>
+      <li>카운트 다운 | Countdown</li>
+      <li>글자 이어 붙여 문자열 만들기 | StringIndex</li>
+      <li>공백으로 구분하기 2 | NewStringArray</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
