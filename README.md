@@ -99,6 +99,20 @@
       <li>조건에 맞게 수열 변환하기 1 | ProductOrQuotient</li>
       <li>수 조작하기 1 | NewSum</li>
       <li>문자열 곱하기 | Appendment</li>
+      <li>제곱수 판별하기 | SquareNumber</li>
+      <li>소문자로 바꾸기 | Lowercase</li>
+      <li>대문자로 바꾸기 | Uppercase</li>
+      <li>문자열로 변환 | StringConversion</li>
+      <li>공백으로 구분하기 1 | StringArray</li>
+      <li>rny_string | LetterConversion</li>
+      <li>n보다 커질 때까지 더하기 | SumLimit</li>
+      <li>접미사인지 확인하기 | Suffix</li>
+      <li>원소들의 곱과 합 | SumComparison</li>
+      <li>A 강조하기 | Emphasis</li>
+      <li>배열의 길이에 따라 다른 연산하기 | ArrayLength</li>
+      <li>문자열 붙여서 출력하기 | Space</li>
+      <li>조건에 맞게 수열 변환하기 3 | NewArrayElements</li>
+      <li>더 크게 합치기 | NewNumber</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
