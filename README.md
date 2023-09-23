@@ -120,6 +120,11 @@
       <li>카운트 다운 | Countdown</li>
       <li>글자 이어 붙여 문자열 만들기 | StringIndex</li>
       <li>공백으로 구분하기 2 | NewStringArray</li>
+      <li>카운트 업 | Count</li>
+      <li>배열의 원소만큼 추가하기 | ArrayManipulation</li>
+      <li>꼬리 문자열 | StringElimination</li>
+      <li>배열에서 문자열 대소문자 변환하기 | EvenAndOddIndexes</li>
+      <li>특정한 문자를 대문자로 바꾸기 | UppercaseLetter</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
