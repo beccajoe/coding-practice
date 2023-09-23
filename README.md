@@ -125,6 +125,16 @@
       <li>꼬리 문자열 | StringElimination</li>
       <li>배열에서 문자열 대소문자 변환하기 | EvenAndOddIndexes</li>
       <li>특정한 문자를 대문자로 바꾸기 | UppercaseLetter</li>
+      <li>부분 문자열 | SpecifiedSubstring</li>
+      <li>문자열 바꿔서 찾기 | SubstringChange</li>
+      <li>배열 만들기 1 | MultiplesInArray</li>
+      <li>5명씩 | RollercoasterLine</li>
+      <li>뒤에서 5등까지 | SmallestNumbers</li>
+      <li>세균 증식 | Bacteria</li>
+      <li>뒤에서 5등 위로 | LargestNumbers</li>
+      <li>홀짝에 따라 다른 값 반환하기 | Operation</li>
+      <li>할 일 목록 | ToDoList</li>
+      <li>0 떼기 | Zero</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
