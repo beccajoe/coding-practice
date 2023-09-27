@@ -135,6 +135,11 @@
       <li>홀짝에 따라 다른 값 반환하기 | Operation</li>
       <li>할 일 목록 | ToDoList</li>
       <li>0 떼기 | Zero</li>
+      <li>홀수 vs 짝수 | BiggerSum</li>
+      <li>순서 바꾸기 | NewOrder</li>
+      <li>배열의 원소 삭제하기 | ElementElimination</li>
+      <li>홀짝 구분하기 | PrintedSolution</li>
+      <li>부분 문자열 이어 붙여 문자열 만들기 | StringFromArray</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
