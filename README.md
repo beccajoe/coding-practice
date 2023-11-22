@@ -140,6 +140,8 @@
       <li>배열의 원소 삭제하기 | ElementElimination</li>
       <li>홀짝 구분하기 | PrintedSolution</li>
       <li>부분 문자열 이어 붙여 문자열 만들기 | StringFromArray</li>
+      <li>문자열 출력하기 | PrintedString</li>
+      <li>a와 b 출력하기 | AAndB</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
