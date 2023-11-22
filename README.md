@@ -142,6 +142,8 @@
       <li>부분 문자열 이어 붙여 문자열 만들기 | StringFromArray</li>
       <li>문자열 출력하기 | PrintedString</li>
       <li>a와 b 출력하기 | AAndB</li>
+      <li>문자열 반복해서 출력하기 | RepeatedString</li>
+      <li>대소문자 바꿔서 출력하기 | UpperAndLowercase</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
