@@ -142,6 +142,17 @@
       <li>부분 문자열 이어 붙여 문자열 만들기 | StringFromArray</li>
       <li>문자열 출력하기 | PrintedString</li>
       <li>a와 b 출력하기 | AAndB</li>
+      <li>문자열 반복해서 출력하기 | RepeatedString</li>
+      <li>대소문자 바꿔서 출력하기 | UpperAndLowercase</li>
+      <li>특수문자 출력하기 | SpecialCharacters</li>
+      <li>덧셈식 출력하기 | AdditionEquation</li>
+      <li>문자열 돌리기 | Line</li>
+      <li>문자열 겹쳐쓰기 | OverwrittenString</li>
+      <li>문자열 섞기 | ShuffledString</li>
+      <li>문자 리스트를 문자열로 변환하기 | ArrayToString</li>
+      <li>두 수의 연산값 비교하기 | OperationValueComparison</li>
+      <li>조건 문자열 | InequalityRelations</li>
+      <li>코드 처리하기 | Indexes</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
