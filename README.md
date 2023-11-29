@@ -153,6 +153,11 @@
       <li>두 수의 연산값 비교하기 | OperationValueComparison</li>
       <li>조건 문자열 | InequalityRelations</li>
       <li>코드 처리하기 | Indexes</li>
+      <li>등차수열의 특정한 항만 더하기 | ArithmeticSequence</li>
+      <li>수 조작하기 2 | NumLog</li>
+      <li>수열과 구간 쿼리 2 | Queries</li>
+      <li>수열과 구간 쿼리 3 | RearrangedArray</li>
+      <li>주사위 게임 2 | ThreeDice</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
