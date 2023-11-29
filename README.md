@@ -158,6 +158,22 @@
       <li>수열과 구간 쿼리 2 | Queries</li>
       <li>수열과 구간 쿼리 3 | RearrangedArray</li>
       <li>주사위 게임 2 | ThreeDice</li>
+      <li>수열과 구간 쿼리 4 | TwoDimensionalArray</li>
+      <li>n의 배수 고르기 | ReturnedMultiples</li>
+      <li>대문자와 소문자 | Capitalization</li>
+      <li>개미 군단 | AntColony</li>
+      <li>가위 바위 보 | RockPaperScissors</li>
+      <li>암호 해독 | Decryption</li>
+      <li>최댓값 만들기 (2) | MaximumValue</li>
+      <li>x 사이의 개수 | NumbersInBetween</li>
+      <li>직각삼각형 출력하기 | AsteriskTriangle</li>
+      <li>가장 큰 수 찾기 | LargestNumberAndIndex</li>
+      <li>외계행성의 나이 | NumbersToLetters</li>
+      <li>콜라츠 수열 만들기 | ColatzSequence</li>
+      <li>문자열 정렬하기 (1) | SortedString</li>
+      <li>약수 구하기 | Divisors</li>
+      <li>인덱스 바꾸기 | IndexChange</li>
+      <li>ad 제거하기 | RemovedString</li>
     </ol>
   <li id="프로그래머스-1">Lv. 1</li>
     <ol type="1">
