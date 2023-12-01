@@ -38,9 +38,10 @@
 
 <h2 id="Java">📑 Java | javapractice</h2>
 <h3 id="프로그래머스">🌐 프로그래머스</h3>
-<ul>
-  <li id="프로그래머스-0">Lv. 0</li>
-    <ol type="1">
+<details id="프로그래머스-0">
+  <summary>Lv. 0</summary>
+  <p>
+        <ol type="1">
       <li>몫 구하기 | Quotient</li>
       <li>나이 출력 | Age</li>
       <li>두 수의 차 | Difference</li>
@@ -175,7 +176,11 @@
       <li>인덱스 바꾸기 | IndexChange</li>
       <li>ad 제거하기 | RemovedString</li>
     </ol>
-  <li id="프로그래머스-1">Lv. 1</li>
+  </p>
+</details>
+<details id="프로그래머스-1">
+  <summary>Lv. 1</summary>
+  <p>
     <ol type="1">
       <li>자릿수 더하기 | Digits</li>
       <li>나머지가 1이 되는 수 찾기 | Remainder</li>
@@ -198,10 +203,13 @@
       <li>없는 숫자 더하기 | Numbers</li>
       <li>제일 작은 수 제거하기 | NewArray</li>
     </ol>
-</ul>
+  </p>
+</details>
+
 <h3 id="정올">🌐 정올</h3>
-<ul>
-  <li id="정올-도형만들기1">도형만들기1 | makingshapes1</li>
+<details id="정올-도형만들기1">
+  <summary>도형만들기1 | makingshapes1</summary>
+  <p>
     <ol type="1">
       <li>1291 구구단 | Gugudan1291</li>
       <li>1341 구구단2 | Gugudan1341</li>
@@ -214,17 +222,23 @@
       <li>1338 문자삼각형1 | TextTriangle1338</li>
       <li>1339 문자삼각형2 | TextTriangle1339</li>
     </ol>
-  <li id="정올-수학1">수학1 | math1</li>
+  </p>
+</details>
+<details id="정올-수학1">
+  <summary>수학1 | math1</summary>
+  <p>
     <ol type="1">
       <li>1692 곱셈 | Multiplication1692</li>
       <li>1430 숫자의 개수 | NumberOfDigits1430</li>
       <li>1071 약수와 배수 | FactorsAndMultiples1071</li>
       <li>1402 약수 구하기 | FindingFactors1402</li>
-  </ol>
-</ul>
+    </ol>
+  </p>
+</details>
+
 <h2 id="JavaScript">📑 JavaScript | jspractice </h2>
 <h3 id="JS-프로그래머스">🌐 프로그래머스</h3>
-<details>
+<details id="JS-프로그래머스-1">
   <summary>Lv. 1</summary>
   <p>
     <ol type="1">
@@ -236,21 +250,13 @@
     </ol>
   </p>
 </details>
-<ul>
-  <li id="JS-프로그래머스-1">Lv. 1</li>
-    <ol type="1">
-      <li>자연수 뒤집어 배열로 만들기 | array</li>
-      <li>문자열 내 p와 y의 개수 | equal</li>
-      <li>문자열을 정수로 바꾸기 | conversion</li>
-      <li>정수 제곱근 판별 | squareRoot</li>
-      <li>정수 내림차순으로 배치하기 | descendingOrder</li>
-    </ol>
-</ul>
+
 <h2 id="SQL">📑 SQL | sqlpractice </h2>
 <h3 id="MySQL">🔖 MySQL</h3>
 <h4 id="MySQL-프로그래머스">🌐 프로그래머스</h4>
-<ul>
-  <li id="MySQL-프로그래머스-1">Lv. 1 [DONE✅]</li>
+<details id="MySQL-프로그래머스-1">
+  <summary>Lv. 1 [DONE✅]</summary>
+  <p>
     <ul>
       <li>SELECT</li>
       <ol type="1">
@@ -289,11 +295,17 @@
         <li>자동차 대여 기록에서 장기/단기 대여 구분하기</li>
       </ol>
     </ul>
-  <li id="MySQL-프로그래머스-2">Lv. 2</li>
+  </p>
+</details>
+<details id="MySQL-프로그래머스-2">
+  <summary>Lv. 2</summary>
+  <p>
     <ul>
       <li>SUM, MAX, MIN</li>
       <ol type="1">
         <li>동물 수 구하기</li>
         <li>최솟값 구하기</li>
       </ol>
-</ul>
+    </ul>
+  </p>
+</details>
