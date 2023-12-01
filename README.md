@@ -224,6 +224,18 @@
 </ul>
 <h2 id="JavaScript">📑 JavaScript | jspractice </h2>
 <h3 id="JS-프로그래머스">🌐 프로그래머스</h3>
+<details>
+  <summary>Lv. 1</summary>
+  <p>
+    <ol type="1">
+      <li>자연수 뒤집어 배열로 만들기 | array</li>
+      <li>문자열 내 p와 y의 개수 | equal</li>
+      <li>문자열을 정수로 바꾸기 | conversion</li>
+      <li>정수 제곱근 판별 | squareRoot</li>
+      <li>정수 내림차순으로 배치하기 | descendingOrder</li>
+    </ol>
+  </p>
+</details>
 <ul>
   <li id="JS-프로그래머스-1">Lv. 1</li>
     <ol type="1">
