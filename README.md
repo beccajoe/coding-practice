@@ -175,6 +175,8 @@
       <li>약수 구하기 | Divisors</li>
       <li>인덱스 바꾸기 | IndexChange</li>
       <li>ad 제거하기 | RemovedString</li>
+      <li>문자열 잘라서 정렬하기 | TruncatedString</li>
+      <li>간단한 식 계산하기 | SimpleExpressions</li>
     </ol>
   </p>
 </details>
