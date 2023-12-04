@@ -12,7 +12,7 @@
     </ul>
     <li><a href="#정올">정올</a></li>
     <ul>
-      <li><a href="#정올-도형만들기1">도형만들기1</a></li>
+      <li><a href="#정올-도형만들기1">도형만들기1 [DONE✅]</a></li>
       <li><a href="#정올-수학1">수학1</a></li>
     </ul>
   </ul>
@@ -177,6 +177,8 @@
       <li>ad 제거하기 | RemovedString</li>
       <li>문자열 잘라서 정렬하기 | TruncatedString</li>
       <li>간단한 식 계산하기 | SimpleExpressions</li>
+      <li>주사위의 개수 | NumberOfDice</li>
+      <li>배열 회전시키기 | RotatedArray</li>
     </ol>
   </p>
 </details>
@@ -210,7 +212,7 @@
 
 <h3 id="정올">🌐 정올</h3>
 <details id="정올-도형만들기1">
-  <summary>도형만들기1 | makingshapes1</summary>
+  <summary>도형만들기1 | makingshapes1 [DONE✅]</summary>
   <p>
     <ol type="1">
       <li>1291 구구단 | Gugudan1291</li>
