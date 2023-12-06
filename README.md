@@ -181,6 +181,19 @@
       <li>배열 회전시키기 | RotatedArray</li>
       <li>가까운 1 찾기 | NearestOne</li>
       <li>특별한 이차원 배열 1 | TwoDimensionalArrays</li>
+      <li>특별한 이차원 배열 2 | TwoDimensionalArrayRequirement</li>
+      <li>l로 만들기 | ChangedString</li>
+      <li>배열 만들기 3 | Intervals</li>
+      <li>접미사 배열 | SuffixArray</li>
+      <li>피자 나눠 먹기 (2) | PizzaBoxes</li>
+      <li>숫자 찾기 | NumberInclusion</li>
+      <li>369게임 | ThreeSixNineGame</li>
+      <li>9로 나눈 나머지 | RemainderFormula</li>
+      <li>문자열 정렬하기 (2) | OrderedString</li>
+      <li>합성수 찾기 | CompositeNumber</li>
+      <li>수열과 구간 쿼리 1 | TweakedArray</li>
+      <li>세로 읽기 | VerticalColumn</li>
+      <li>날짜 비교하기 | Weather</li>
     </ol>
   </p>
 </details>
