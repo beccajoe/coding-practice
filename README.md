@@ -196,6 +196,8 @@
       <li>날짜 비교하기 | Weather</li>
       <li>중복된 문자 제거 | DuplicateLetters</li>
       <li>글자 지우기 | ConcatenatedString</li>
+      <li>이차원 배열 대각선 순회하기 | Board</li>
+      <li>빈 배열에 추가, 삭제하기 | EmptyArray</li>
     </ol>
   </p>
 </details>
