@@ -194,6 +194,8 @@
       <li>수열과 구간 쿼리 1 | TweakedArray</li>
       <li>세로 읽기 | VerticalColumn</li>
       <li>날짜 비교하기 | Weather</li>
+      <li>중복된 문자 제거 | DuplicateLetters</li>
+      <li>글자 지우기 | ConcatenatedString</li>
     </ol>
   </p>
 </details>
