@@ -41,7 +41,7 @@
 <details id="프로그래머스-0">
   <summary>Lv. 0</summary>
   <p>
-        <ol type="1">
+      <ol type="1">
       <li>몫 구하기 | Quotient</li>
       <li>나이 출력 | Age</li>
       <li>두 수의 차 | Difference</li>
@@ -198,6 +198,8 @@
       <li>글자 지우기 | ConcatenatedString</li>
       <li>이차원 배열 대각선 순회하기 | Board</li>
       <li>빈 배열에 추가, 삭제하기 | EmptyArray</li>
+      <li>문자열 뒤집기 | FlippedString</li>
+      <li>1로 만들기 | One</li>
     </ol>
   </p>
 </details>
