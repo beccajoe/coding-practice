@@ -200,6 +200,16 @@
       <li>빈 배열에 추가, 삭제하기 | EmptyArray</li>
       <li>문자열 뒤집기 | FlippedString</li>
       <li>1로 만들기 | One</li>
+      <li>특정 문자열로 끝나는 가장 긴 부분 문자열 찾기 | LongestSubstring</li>
+      <li>2차원으로 만들기 | OneToTwoDimensionalArray</li>
+      <li>A로 B 만들기 | AToB</li>
+      <li>팩토리얼 | Factorial</li>
+      <li>모스부호 (1) | MorseCode</li>
+      <li>k의 개수 | KCount</li>
+      <li>문자열이 몇 번 등장하는지 세기 | StringCount</li>
+      <li>배열 만들기 5 | SubstringArray</li>
+      <li>가까운 수 | ClosestNumber</li>
+      <li>숨어있는 숫자의 덧셈 (2) | HiddenSum</li>
     </ol>
   </p>
 </details>
