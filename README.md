@@ -210,7 +210,9 @@
       <li>배열 만들기 5 | SubstringArray</li>
       <li>가까운 수 | ClosestNumber</li>
       <li>숨어있는 숫자의 덧셈 (2) | HiddenSum</li>
-    </ol>
+      <li>세 개의 구분자 | Separators</li>
+      <li>진료 순서 정하기 | PriorityLevel</li>
+      </ol>
   </p>
 </details>
 <details id="프로그래머스-1">
