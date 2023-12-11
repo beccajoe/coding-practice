@@ -212,6 +212,9 @@
       <li>숨어있는 숫자의 덧셈 (2) | HiddenSum</li>
       <li>세 개의 구분자 | Separators</li>
       <li>진료 순서 정하기 | PriorityLevel</li>
+      <li>한 번만 등장한 문자 | Once</li>
+      <li>배열의 길이를 2의 거듭제곱으로 만들기 | ChangedArrayLength</li>
+      <li>간단한 논리 연산 | LogicalOperations</li>
       </ol>
   </p>
 </details>
