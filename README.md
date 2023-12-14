@@ -42,179 +42,191 @@
   <summary>Lv. 0</summary>
   <p>
       <ol type="1">
-      <li>몫 구하기 | Quotient</li>
-      <li>나이 출력 | Age</li>
-      <li>두 수의 차 | Difference</li>
-      <li>숫자 비교하기 | Comparison</li>
-      <li>나머지 구하기 | Remainder</li>
-      <li>두 수의 곱 | Multiplication</li>
-      <li>두 수의 합 | Addition</li>
-      <li>두 수의 나눗셈 | Division</li>
-      <li>각도기 | Angle</li>
-      <li>짝수의 합 | EvenNumbers</li>
-      <li>배열의 평균값 | Average</li>
-      <li>양꼬치 | Store</li>
-      <li>배열 원소의 길이 | Length</li>
-      <li>배열 뒤집기 | ArrayOrder</li>
-      <li>문자열 뒤집기 | StringOrder</li>
-      <li>배열 자르기 | NewArray</li>
-      <li>배열 두배 만들기 | Double</li>
-      <li>편지 | CardSize</li>
-      <li>특정 문자 제거하기 | NewString</li>
-      <li>피자 나눠 먹기 (3) | Pizza</li>
-      <li>짝수 홀수 개수 | EvenAndOdd</li>
-      <li>삼각형의 완성조건 (1) | Triangle</li>
-      <li>점의 위치 구하기 | Location</li>
-      <li>최댓값 만들기 (1) | MaximumProduct</li>
-      <li>모음 제거 | NoVowels</li>
-      <li>배열의 유사도 | ArrayComparison</li>
-      <li>피자 나눠 먹기 (1) | PizzaSlices</li>
-      <li>머쓱이보다 키 큰 사람 | Height</li>
-      <li>순서쌍의 개수 | Products</li>
-      <li>중복된 숫자 개수 | Repeats</li>
-      <li>문자열안에 문자열 | Occurrence</li>
-      <li>문자 반복 출력하기 | Repetition</li>
-      <li>아이스 아메리카노 | Americano</li>
-      <li>옷가게 할인 받기 | Discount</li>
-      <li>자릿수 더하기 | Number</li>
-      <li>중앙값 구하기 | Middle</li>
-      <li>짝수는 싫어요 | NoEvenNumbers</li>
-      <li>숨어있는 숫자의 덧셈 (1) | ArraySum</li>
-      <li>문자열을 정수로 변환하기 | IntegerConversion</li>
-      <li>정수 부분 | DoubleToInteger</li>
-      <li>n의 배수 | Multiple</li>
-      <li>배열 비교하기 | ArrayLengthComparison</li>
-      <li>n개 간격의 원소들 | Interval</li>
-      <li>flag에 따라 다른 값 반환하기 | BooleanSolution</li>
-      <li>n 번째 원소까지 | ArrayElements</li>
-      <li>정수 찾기 | ArrayListCheck</li>
-      <li>n 번째 원소부터 | Elements</li>
-      <li>마지막 두 원소 | ElementComparison</li>
-      <li>길이에 따른 연산 | SumOrProduct</li>
-      <li>문자열의 뒤의 n글자 | Substring</li>
-      <li>첫 번째로 나오는 음수 | FirstNegativeNumber</li>
-      <li>문자열 정수의 합 | StringSum</li>
-      <li>문자열의 앞의 n글자 | SubstringIndex</li>
-      <li>부분 문자열인지 확인하기 | SubstringCheck</li>
-      <li>공배수 | Multiples</li>
-      <li>조건에 맞게 수열 변환하기 1 | ProductOrQuotient</li>
-      <li>수 조작하기 1 | NewSum</li>
-      <li>문자열 곱하기 | Appendment</li>
-      <li>제곱수 판별하기 | SquareNumber</li>
-      <li>소문자로 바꾸기 | Lowercase</li>
-      <li>대문자로 바꾸기 | Uppercase</li>
-      <li>문자열로 변환 | StringConversion</li>
-      <li>공백으로 구분하기 1 | StringArray</li>
-      <li>rny_string | LetterConversion</li>
-      <li>n보다 커질 때까지 더하기 | SumLimit</li>
-      <li>접미사인지 확인하기 | Suffix</li>
-      <li>원소들의 곱과 합 | SumComparison</li>
-      <li>A 강조하기 | Emphasis</li>
-      <li>배열의 길이에 따라 다른 연산하기 | ArrayLength</li>
-      <li>문자열 붙여서 출력하기 | Space</li>
-      <li>조건에 맞게 수열 변환하기 3 | NewArrayElements</li>
-      <li>더 크게 합치기 | NewNumber</li>
-      <li>이어 붙인 수 | SumOfNumbers</li>
-      <li>접두사인지 확인하기 | Prefix</li>
-      <li>주사위 게임 1 | Dice</li>
-      <li>원하는 문자열 찾기 | StringInclusion</li>
-      <li>카운트 다운 | Countdown</li>
-      <li>글자 이어 붙여 문자열 만들기 | StringIndex</li>
-      <li>공백으로 구분하기 2 | NewStringArray</li>
-      <li>카운트 업 | Count</li>
-      <li>배열의 원소만큼 추가하기 | ArrayManipulation</li>
-      <li>꼬리 문자열 | StringElimination</li>
-      <li>배열에서 문자열 대소문자 변환하기 | EvenAndOddIndexes</li>
-      <li>특정한 문자를 대문자로 바꾸기 | UppercaseLetter</li>
-      <li>부분 문자열 | SpecifiedSubstring</li>
-      <li>문자열 바꿔서 찾기 | SubstringChange</li>
-      <li>배열 만들기 1 | MultiplesInArray</li>
-      <li>5명씩 | RollercoasterLine</li>
-      <li>뒤에서 5등까지 | SmallestNumbers</li>
-      <li>세균 증식 | Bacteria</li>
-      <li>뒤에서 5등 위로 | LargestNumbers</li>
-      <li>홀짝에 따라 다른 값 반환하기 | Operation</li>
-      <li>할 일 목록 | ToDoList</li>
-      <li>0 떼기 | Zero</li>
-      <li>홀수 vs 짝수 | BiggerSum</li>
-      <li>순서 바꾸기 | NewOrder</li>
-      <li>배열의 원소 삭제하기 | ElementElimination</li>
-      <li>홀짝 구분하기 | PrintedSolution</li>
-      <li>부분 문자열 이어 붙여 문자열 만들기 | StringFromArray</li>
-      <li>문자열 출력하기 | PrintedString</li>
-      <li>a와 b 출력하기 | AAndB</li>
-      <li>문자열 반복해서 출력하기 | RepeatedString</li>
-      <li>대소문자 바꿔서 출력하기 | UpperAndLowercase</li>
-      <li>특수문자 출력하기 | SpecialCharacters</li>
-      <li>덧셈식 출력하기 | AdditionEquation</li>
-      <li>문자열 돌리기 | Line</li>
-      <li>문자열 겹쳐쓰기 | OverwrittenString</li>
-      <li>문자열 섞기 | ShuffledString</li>
-      <li>문자 리스트를 문자열로 변환하기 | ArrayToString</li>
-      <li>두 수의 연산값 비교하기 | OperationValueComparison</li>
-      <li>조건 문자열 | InequalityRelations</li>
-      <li>코드 처리하기 | Indexes</li>
-      <li>등차수열의 특정한 항만 더하기 | ArithmeticSequence</li>
-      <li>수 조작하기 2 | NumLog</li>
-      <li>수열과 구간 쿼리 2 | Queries</li>
-      <li>수열과 구간 쿼리 3 | RearrangedArray</li>
-      <li>주사위 게임 2 | ThreeDice</li>
-      <li>수열과 구간 쿼리 4 | TwoDimensionalArray</li>
-      <li>n의 배수 고르기 | ReturnedMultiples</li>
-      <li>대문자와 소문자 | Capitalization</li>
-      <li>개미 군단 | AntColony</li>
-      <li>가위 바위 보 | RockPaperScissors</li>
-      <li>암호 해독 | Decryption</li>
-      <li>최댓값 만들기 (2) | MaximumValue</li>
-      <li>x 사이의 개수 | NumbersInBetween</li>
-      <li>직각삼각형 출력하기 | AsteriskTriangle</li>
-      <li>가장 큰 수 찾기 | LargestNumberAndIndex</li>
-      <li>외계행성의 나이 | NumbersToLetters</li>
-      <li>콜라츠 수열 만들기 | ColatzSequence</li>
-      <li>문자열 정렬하기 (1) | SortedString</li>
-      <li>약수 구하기 | Divisors</li>
-      <li>인덱스 바꾸기 | IndexChange</li>
-      <li>ad 제거하기 | RemovedString</li>
-      <li>문자열 잘라서 정렬하기 | TruncatedString</li>
-      <li>간단한 식 계산하기 | SimpleExpressions</li>
-      <li>주사위의 개수 | NumberOfDice</li>
-      <li>배열 회전시키기 | RotatedArray</li>
-      <li>가까운 1 찾기 | NearestOne</li>
-      <li>특별한 이차원 배열 1 | TwoDimensionalArrays</li>
-      <li>특별한 이차원 배열 2 | TwoDimensionalArrayRequirement</li>
-      <li>l로 만들기 | ChangedString</li>
-      <li>배열 만들기 3 | Intervals</li>
-      <li>접미사 배열 | SuffixArray</li>
-      <li>피자 나눠 먹기 (2) | PizzaBoxes</li>
-      <li>숫자 찾기 | NumberInclusion</li>
-      <li>369게임 | ThreeSixNineGame</li>
-      <li>9로 나눈 나머지 | RemainderFormula</li>
-      <li>문자열 정렬하기 (2) | OrderedString</li>
-      <li>합성수 찾기 | CompositeNumber</li>
-      <li>수열과 구간 쿼리 1 | TweakedArray</li>
-      <li>세로 읽기 | VerticalColumn</li>
-      <li>날짜 비교하기 | Weather</li>
-      <li>중복된 문자 제거 | DuplicateLetters</li>
-      <li>글자 지우기 | ConcatenatedString</li>
-      <li>이차원 배열 대각선 순회하기 | Board</li>
-      <li>빈 배열에 추가, 삭제하기 | EmptyArray</li>
-      <li>문자열 뒤집기 | FlippedString</li>
-      <li>1로 만들기 | One</li>
-      <li>특정 문자열로 끝나는 가장 긴 부분 문자열 찾기 | LongestSubstring</li>
-      <li>2차원으로 만들기 | OneToTwoDimensionalArray</li>
-      <li>A로 B 만들기 | AToB</li>
-      <li>팩토리얼 | Factorial</li>
-      <li>모스부호 (1) | MorseCode</li>
-      <li>k의 개수 | KCount</li>
-      <li>문자열이 몇 번 등장하는지 세기 | StringCount</li>
-      <li>배열 만들기 5 | SubstringArray</li>
-      <li>가까운 수 | ClosestNumber</li>
-      <li>숨어있는 숫자의 덧셈 (2) | HiddenSum</li>
-      <li>세 개의 구분자 | Separators</li>
-      <li>진료 순서 정하기 | PriorityLevel</li>
-      <li>한 번만 등장한 문자 | Once</li>
-      <li>배열의 길이를 2의 거듭제곱으로 만들기 | ChangedArrayLength</li>
-      <li>간단한 논리 연산 | LogicalOperations</li>
+        <li>몫 구하기 | Quotient</li>
+        <li>나이 출력 | Age</li>
+        <li>두 수의 차 | Difference</li>
+        <li>숫자 비교하기 | Comparison</li>
+        <li>나머지 구하기 | Remainder</li>
+        <li>두 수의 곱 | Multiplication</li>
+        <li>두 수의 합 | Addition</li>
+        <li>두 수의 나눗셈 | Division</li>
+        <li>각도기 | Angle</li>
+        <li>짝수의 합 | EvenNumbers</li>
+        <li>배열의 평균값 | Average</li>
+        <li>양꼬치 | Store</li>
+        <li>배열 원소의 길이 | Length</li>
+        <li>배열 뒤집기 | ArrayOrder</li>
+        <li>문자열 뒤집기 | StringOrder</li>
+        <li>배열 자르기 | NewArray</li>
+        <li>배열 두배 만들기 | Double</li>
+        <li>편지 | CardSize</li>
+        <li>특정 문자 제거하기 | NewString</li>
+        <li>피자 나눠 먹기 (3) | Pizza</li>
+        <li>짝수 홀수 개수 | EvenAndOdd</li>
+        <li>삼각형의 완성조건 (1) | Triangle</li>
+        <li>점의 위치 구하기 | Location</li>
+        <li>최댓값 만들기 (1) | MaximumProduct</li>
+        <li>모음 제거 | NoVowels</li>
+        <li>배열의 유사도 | ArrayComparison</li>
+        <li>피자 나눠 먹기 (1) | PizzaSlices</li>
+        <li>머쓱이보다 키 큰 사람 | Height</li>
+        <li>순서쌍의 개수 | Products</li>
+        <li>중복된 숫자 개수 | Repeats</li>
+        <li>문자열안에 문자열 | Occurrence</li>
+        <li>문자 반복 출력하기 | Repetition</li>
+        <li>아이스 아메리카노 | Americano</li>
+        <li>옷가게 할인 받기 | Discount</li>
+        <li>자릿수 더하기 | Number</li>
+        <li>중앙값 구하기 | Middle</li>
+        <li>짝수는 싫어요 | NoEvenNumbers</li>
+        <li>숨어있는 숫자의 덧셈 (1) | ArraySum</li>
+        <li>문자열을 정수로 변환하기 | IntegerConversion</li>
+        <li>정수 부분 | DoubleToInteger</li>
+        <li>n의 배수 | Multiple</li>
+        <li>배열 비교하기 | ArrayLengthComparison</li>
+        <li>n개 간격의 원소들 | Interval</li>
+        <li>flag에 따라 다른 값 반환하기 | BooleanSolution</li>
+        <li>n 번째 원소까지 | ArrayElements</li>
+        <li>정수 찾기 | ArrayListCheck</li>
+        <li>n 번째 원소부터 | Elements</li>
+        <li>마지막 두 원소 | ElementComparison</li>
+        <li>길이에 따른 연산 | SumOrProduct</li>
+        <li>문자열의 뒤의 n글자 | Substring</li>
+        <li>첫 번째로 나오는 음수 | FirstNegativeNumber</li>
+        <li>문자열 정수의 합 | StringSum</li>
+        <li>문자열의 앞의 n글자 | SubstringIndex</li>
+        <li>부분 문자열인지 확인하기 | SubstringCheck</li>
+        <li>공배수 | Multiples</li>
+        <li>조건에 맞게 수열 변환하기 1 | ProductOrQuotient</li>
+        <li>수 조작하기 1 | NewSum</li>
+        <li>문자열 곱하기 | Appendment</li>
+        <li>제곱수 판별하기 | SquareNumber</li>
+        <li>소문자로 바꾸기 | Lowercase</li>
+        <li>대문자로 바꾸기 | Uppercase</li>
+        <li>문자열로 변환 | StringConversion</li>
+        <li>공백으로 구분하기 1 | StringArray</li>
+        <li>rny_string | LetterConversion</li>
+        <li>n보다 커질 때까지 더하기 | SumLimit</li>
+        <li>접미사인지 확인하기 | Suffix</li>
+        <li>원소들의 곱과 합 | SumComparison</li>
+        <li>A 강조하기 | Emphasis</li>
+        <li>배열의 길이에 따라 다른 연산하기 | ArrayLength</li>
+        <li>문자열 붙여서 출력하기 | Space</li>
+        <li>조건에 맞게 수열 변환하기 3 | NewArrayElements</li>
+        <li>더 크게 합치기 | NewNumber</li>
+        <li>이어 붙인 수 | SumOfNumbers</li>
+        <li>접두사인지 확인하기 | Prefix</li>
+        <li>주사위 게임 1 | Dice</li>
+        <li>원하는 문자열 찾기 | StringInclusion</li>
+        <li>카운트 다운 | Countdown</li>
+        <li>글자 이어 붙여 문자열 만들기 | StringIndex</li>
+        <li>공백으로 구분하기 2 | NewStringArray</li>
+        <li>카운트 업 | Count</li>
+        <li>배열의 원소만큼 추가하기 | ArrayManipulation</li>
+        <li>꼬리 문자열 | StringElimination</li>
+        <li>배열에서 문자열 대소문자 변환하기 | EvenAndOddIndexes</li>
+        <li>특정한 문자를 대문자로 바꾸기 | UppercaseLetter</li>
+        <li>부분 문자열 | SpecifiedSubstring</li>
+        <li>문자열 바꿔서 찾기 | SubstringChange</li>
+        <li>배열 만들기 1 | MultiplesInArray</li>
+        <li>5명씩 | RollercoasterLine</li>
+        <li>뒤에서 5등까지 | SmallestNumbers</li>
+        <li>세균 증식 | Bacteria</li>
+        <li>뒤에서 5등 위로 | LargestNumbers</li>
+        <li>홀짝에 따라 다른 값 반환하기 | Operation</li>
+        <li>할 일 목록 | ToDoList</li>
+        <li>0 떼기 | Zero</li>
+        <li>홀수 vs 짝수 | BiggerSum</li>
+        <li>순서 바꾸기 | NewOrder</li>
+        <li>배열의 원소 삭제하기 | ElementElimination</li>
+        <li>홀짝 구분하기 | PrintedSolution</li>
+        <li>부분 문자열 이어 붙여 문자열 만들기 | StringFromArray</li>
+        <li>문자열 출력하기 | PrintedString</li>
+        <li>a와 b 출력하기 | AAndB</li>
+        <li>문자열 반복해서 출력하기 | RepeatedString</li>
+        <li>대소문자 바꿔서 출력하기 | UpperAndLowercase</li>
+        <li>특수문자 출력하기 | SpecialCharacters</li>
+        <li>덧셈식 출력하기 | AdditionEquation</li>
+        <li>문자열 돌리기 | Line</li>
+        <li>문자열 겹쳐쓰기 | OverwrittenString</li>
+        <li>문자열 섞기 | ShuffledString</li>
+        <li>문자 리스트를 문자열로 변환하기 | ArrayToString</li>
+        <li>두 수의 연산값 비교하기 | OperationValueComparison</li>
+        <li>조건 문자열 | InequalityRelations</li>
+        <li>코드 처리하기 | Indexes</li>
+        <li>등차수열의 특정한 항만 더하기 | ArithmeticSequence</li>
+        <li>수 조작하기 2 | NumLog</li>
+        <li>수열과 구간 쿼리 2 | Queries</li>
+        <li>수열과 구간 쿼리 3 | RearrangedArray</li>
+        <li>주사위 게임 2 | ThreeDice</li>
+        <li>수열과 구간 쿼리 4 | TwoDimensionalArray</li>
+        <li>n의 배수 고르기 | ReturnedMultiples</li>
+        <li>대문자와 소문자 | Capitalization</li>
+        <li>개미 군단 | AntColony</li>
+        <li>가위 바위 보 | RockPaperScissors</li>
+        <li>암호 해독 | Decryption</li>
+        <li>최댓값 만들기 (2) | MaximumValue</li>
+        <li>x 사이의 개수 | NumbersInBetween</li>
+        <li>직각삼각형 출력하기 | AsteriskTriangle</li>
+        <li>가장 큰 수 찾기 | LargestNumberAndIndex</li>
+        <li>외계행성의 나이 | NumbersToLetters</li>
+        <li>콜라츠 수열 만들기 | ColatzSequence</li>
+        <li>문자열 정렬하기 (1) | SortedString</li>
+        <li>약수 구하기 | Divisors</li>
+        <li>인덱스 바꾸기 | IndexChange</li>
+        <li>ad 제거하기 | RemovedString</li>
+        <li>문자열 잘라서 정렬하기 | TruncatedString</li>
+        <li>간단한 식 계산하기 | SimpleExpressions</li>
+        <li>주사위의 개수 | NumberOfDice</li>
+        <li>배열 회전시키기 | RotatedArray</li>
+        <li>가까운 1 찾기 | NearestOne</li>
+        <li>특별한 이차원 배열 1 | TwoDimensionalArrays</li>
+        <li>특별한 이차원 배열 2 | TwoDimensionalArrayRequirement</li>
+        <li>l로 만들기 | ChangedString</li>
+        <li>배열 만들기 3 | Intervals</li>
+        <li>접미사 배열 | SuffixArray</li>
+        <li>피자 나눠 먹기 (2) | PizzaBoxes</li>
+        <li>숫자 찾기 | NumberInclusion</li>
+        <li>369게임 | ThreeSixNineGame</li>
+        <li>9로 나눈 나머지 | RemainderFormula</li>
+        <li>문자열 정렬하기 (2) | OrderedString</li>
+        <li>합성수 찾기 | CompositeNumber</li>
+        <li>수열과 구간 쿼리 1 | TweakedArray</li>
+        <li>세로 읽기 | VerticalColumn</li>
+        <li>날짜 비교하기 | Weather</li>
+        <li>중복된 문자 제거 | DuplicateLetters</li>
+        <li>글자 지우기 | ConcatenatedString</li>
+        <li>이차원 배열 대각선 순회하기 | Board</li>
+        <li>빈 배열에 추가, 삭제하기 | EmptyArray</li>
+        <li>문자열 뒤집기 | FlippedString</li>
+        <li>1로 만들기 | One</li>
+        <li>특정 문자열로 끝나는 가장 긴 부분 문자열 찾기 | LongestSubstring</li>
+        <li>2차원으로 만들기 | OneToTwoDimensionalArray</li>
+        <li>A로 B 만들기 | AToB</li>
+        <li>팩토리얼 | Factorial</li>
+        <li>모스부호 (1) | MorseCode</li>
+        <li>k의 개수 | KCount</li>
+        <li>문자열이 몇 번 등장하는지 세기 | StringCount</li>
+        <li>배열 만들기 5 | SubstringArray</li>
+        <li>가까운 수 | ClosestNumber</li>
+        <li>숨어있는 숫자의 덧셈 (2) | HiddenSum</li>
+        <li>세 개의 구분자 | Separators</li>
+        <li>진료 순서 정하기 | PriorityLevel</li>
+        <li>한 번만 등장한 문자 | Once</li>
+        <li>배열의 길이를 2의 거듭제곱으로 만들기 | ChangedArrayLength</li>
+        <li>간단한 논리 연산 | LogicalOperations</li>
+        <li>2의 영역 | Two</li>
+        <li>문자열 묶기 | StringLength</li>
+        <li>리스트 자르기 | SlicedArray</li>
+        <li>컨트롤 제트 | CtrlZ</li>
+        <li>7의 개수 | Seven</li>
+        <li>이진수 더하기 | BinaryNumberAddition</li>
+        <li>커피 심부름 | Coffee</li>
+        <li>qr code | QRCode</li>
+        <li>조건에 맞게 수열 변환하기 2 | SequenceConversion</li>
+        <li>소인수분해 | Factorization</li>
+        <li>잘라서 배열로 저장하기 | StringToArray</li>
+        <li>문자 개수 세기 | LetterCount</li>
       </ol>
   </p>
 </details>
