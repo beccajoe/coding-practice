@@ -227,6 +227,8 @@
         <li>소인수분해 | Factorization</li>
         <li>잘라서 배열로 저장하기 | StringToArray</li>
         <li>문자 개수 세기 | LetterCount</li>
+        <li>배열 만들기 4 | IntegerArray</li>
+        <li>공 던지기 | BallGame</li>
       </ol>
   </p>
 </details>
