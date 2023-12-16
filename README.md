@@ -229,6 +229,16 @@
         <li>문자 개수 세기 | LetterCount</li>
         <li>배열 만들기 4 | IntegerArray</li>
         <li>공 던지기 | BallGame</li>
+        <li>문자열 계산하기 | MathematicalSolution</li>
+        <li>영어가 싫어요 | StringToNumber</li>
+        <li>두 수의 합 | Total</li>
+        <li>왼쪽 오른쪽 | LeftRight</li>
+        <li>구슬을 나누는 경우의 수 | Marbles</li>
+        <li>삼각형의 완성조건 (2) | TriangleConditions</li>
+        <li>배열 만들기 6 | ArrayConditions</li>
+        <li>문자열 여러 번 뒤집기 | ReversedIndex</li>
+        <li>무작위로 K개의 수 뽑기 | RandomNumbers</li>
+        <li>그림 확대 | ResizedImage</li>
       </ol>
   </p>
 </details>
