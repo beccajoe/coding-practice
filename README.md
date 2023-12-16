@@ -239,6 +239,12 @@
         <li>문자열 여러 번 뒤집기 | ReversedIndex</li>
         <li>무작위로 K개의 수 뽑기 | RandomNumbers</li>
         <li>그림 확대 | ResizedImage</li>
+        <li>외계어 사전 | Dictionary</li>
+        <li>정사각형으로 만들기 | Square</li>
+        <li>종이 자르기 | Paper</li>
+        <li>캐릭터의 좌표 | Game</li>
+        <li>직사각형 넓이 구하기 | Area</li>
+        <li>로그인 성공? | Login</li>
       </ol>
   </p>
 </details>
