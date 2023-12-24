@@ -245,6 +245,16 @@
         <li>캐릭터의 좌표 | Game</li>
         <li>직사각형 넓이 구하기 | Area</li>
         <li>로그인 성공? | Login</li>
+        <li>등수 매기기 | Rankings</li>
+        <li>치킨 쿠폰 | Chicken</li>
+        <li>전국 대회 선발 고사 | CompetitionParticipation</li>
+        <li>유한소수 판별하기 | FiniteDecimal</li>
+        <li>저주의 숫자 3 | CursedNumber</li>
+        <li>문자열 밀기 | Push</li>
+        <li>특이한 정렬 | SortedArray</li>
+        <li>배열 만들기 2 | AscendingOrder</li>
+        <li>다항식 더하기 | Polynomials</li>
+        <li>최빈값 구하기 | Mode</li>
       </ol>
   </p>
 </details>
