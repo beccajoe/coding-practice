@@ -7,7 +7,7 @@
   <ul>
     <li><a href="#프로그래머스">프로그래머스</a></li>
     <ul>
-      <li><a href="#프로그래머스-0">Lv. 0</a></li>
+      <li><a href="#프로그래머스-0">Lv. 0 [DONE✅]</a></li>
       <li><a href="#프로그래머스-1">Lv. 1</a></li>
     </ul>
     <li><a href="#정올">정올</a></li>
@@ -39,7 +39,7 @@
 <h2 id="Java">📑 Java | javapractice</h2>
 <h3 id="프로그래머스">🌐 프로그래머스</h3>
 <details id="프로그래머스-0">
-  <summary>Lv. 0</summary>
+  <summary>Lv. 0 [DONE✅]</summary>
   <p>
       <ol type="1">
         <li>몫 구하기 | Quotient</li>
@@ -255,6 +255,25 @@
         <li>배열 만들기 2 | AscendingOrder</li>
         <li>다항식 더하기 | Polynomials</li>
         <li>최빈값 구하기 | Mode</li>
+        <li>배열 조각하기 | ArrayChange</li>
+        <li>OX퀴즈 | OXQuiz</li>
+        <li>다음에 올 숫자 | NextNumber</li>
+        <li>연속된 수의 합 | SumOfConsecutiveNumbers</li>
+        <li>분수의 덧셈 | FractionSum</li>
+        <li>안전지대 | SafeZone</li>
+        <li>주사위 게임 3 | FourDice</li>
+        <li>겹치는 선분의 길이 | Overlap</li>
+        <li>평행 | Parallel</li>
+        <li>정수를 나선형으로 배치하기 | Spiral</li>
+        <li>옹알이 (1) | Babbling</li>
+        <li>[PCCE 기출문제] 1번 / 출력 | Output</li>
+        <li>[PCCE 기출문제] 2번 / 피타고라스의 정리 | PythagoreanTheorem</li>
+        <li>[PCCE 기출문제] 3번 / 나이 계산 | AgeCalculation</li>
+        <li>[PCCE 기출문제] 4번 / 저축 | Savings</li>
+        <li>[PCCE 기출문제] 5번 / 산책 | Walk</li>
+        <li>[PCCE 기출문제] 6번 / 가채점 | PreliminaryResults</li>
+        <li>[PCCE 기출문제] 7번 / 가습기 | Humidifier</li>
+        <li>[PCCE 기출문제] 8번 / 창고 정리 | WarehouseOrganization</li>
       </ol>
   </p>
 </details>
