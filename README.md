@@ -1,5 +1,10 @@
 <h1>👩‍💻 알고리즘 문제 풀이</h1>
 코딩 테스트 개인 연습 저장소
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+</p>
 
 <h2>✍ 문제 목록</h2>
 <ol type="I">
